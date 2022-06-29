@@ -1,0 +1,2 @@
+# FingerprintRecognition
+基于OpenCV和tinker的指纹识别系统，使用的硬件为AS608
